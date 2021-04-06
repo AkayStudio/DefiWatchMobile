@@ -1,0 +1,6 @@
+framework module Pods_DefiWatchMobileTests {
+  umbrella header "Pods-DefiWatchMobileTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

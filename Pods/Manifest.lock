@@ -1,0 +1,93 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Differentiator (3.1.0)
+  - KeychainAccess (3.1.2)
+  - Moya/Core (10.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (10.0.2):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+  - Result (3.2.4)
+  - RxBlocking (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.0.2):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxOptional (3.3.0):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.5.0)
+  - RxTest (4.1.2):
+    - RxSwift (~> 4.0)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SVProgressHUD (2.1.2)
+  - SwiftIconFont (2.7.4)
+  - XLPagerTabStrip (8.0.1)
+
+DEPENDENCIES:
+  - KeychainAccess (~> 3.1.1)
+  - Moya/RxSwift (~> 10.0.2)
+  - Nimble (~> 7.0.3)
+  - Quick (~> 1.2.0)
+  - Result (~> 3.0)
+  - RxBlocking (~> 4.1.1)
+  - RxCocoa (~> 4.1.1)
+  - RxDataSources (~> 3.0.2)
+  - RxOptional (~> 3.3.0)
+  - RxSwift (~> 4.0)
+  - RxTest (~> 4.1.1)
+  - SDWebImage (~> 4.3.0)
+  - SVProgressHUD (~> 2.1.2)
+  - SwiftIconFont (~> 2.7.3)
+  - XLPagerTabStrip (~> 8.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Differentiator
+    - KeychainAccess
+    - Moya
+    - Nimble
+    - Quick
+    - Result
+    - RxBlocking
+    - RxCocoa
+    - RxDataSources
+    - RxOptional
+    - RxSwift
+    - RxTest
+    - SDWebImage
+    - SVProgressHUD
+    - SwiftIconFont
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Differentiator: be49ca3408f0ecfc761e4c7763d20c62be01b9ad
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
+  Moya: 2b0531a9fef318e0bc484030c3db1e6f279ccb66
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxBlocking: f6054985901412fc8c02daa84e92d4ba68c61389
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxDataSources: cb7c31e652a87ebb919da45f716bbb87b3765f6b
+  RxOptional: e5448d3e21024489e07c31f6a262f2b50c975367
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  RxTest: e634f15fd2c2cd0e0120132ef7a4f7be69ad0393
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  SwiftIconFont: 89fd5ec727835ea3df795ada3c45010ac87afa84
+  XLPagerTabStrip: c908b17cbf42fcd2598ee1adfc49bae25444d88a
+
+PODFILE CHECKSUM: 093d6ed30e864b8e541d5dd49e895cafd72d4a3e
+
+COCOAPODS: 1.5.3
