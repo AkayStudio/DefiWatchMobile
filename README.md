@@ -1,8 +1,6 @@
 
 
-![](https://cloud.githubusercontent.com/assets/73608/23101342/9a42b082-f6d4-11e6-9fa2-a1d2b8882d02.gif)
-
-# boilerplate
+# Base on 
 
 Swift 4 and Using MVVM architecture(Rxswfit + Moya) to implement Github client demo.
 
